@@ -2,13 +2,13 @@
 
 Monday April 21<sup>st</sup> 5:45 PM
 
-For this assignment you are creating a unit converter. All of the html and css is already created for you the only thing you need to do is finish the `userInputHandler` function.
+For this assignment you are creating a unit converter. All of the html and css is already created for you, the only thing you need to do is finish the `userInputHandler` function.
 
 The `userInputHandler` will get called every time the user types and when the types change.
 
 ## Before starting the assignment make sure that:
 <ul>
-    <li>Accept the assigned 2.</li>
+    <li>Accept the assignment 2.</li>
     <li>Clone your assignment repo to your computer. (When cloning there is no need to set upstream)</li>
     <li>The only thing you need to do is <code>git clone URL-OF-REPO</code> into the folder where you want the repo.</li>
 </ul>
